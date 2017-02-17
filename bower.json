@@ -1,12 +1,12 @@
 {
-  "name": "journal-update",
+  "name": "github-api-app",
   "description": "",
-  "main": "script.js",
+  "main": "gulpfile.js",
   "authors": [
     "Mac <taralgurung@hotmail.com>"
   ],
   "license": "ISC",
-  "homepage": "https://github.com/taralgrg/journal-entry-update",
+  "homepage": "https://github.com/taralgrg/github-api-app",
   "ignore": [
     "**/.*",
     "node_modules",
